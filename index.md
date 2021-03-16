@@ -3,7 +3,7 @@
 ## Contact Me
 To contact me please, email me at: [mtgsquad.dev@protonmail.com](mailto:mtgsquad.dev@protonmail.com)
 
-## Contribute In my Projects
+## Contribute In My Projects
 Contribute in my projects on github, My github profile is available [here.](https://github.com/mtgsquad)
 
 ## My Social Media
