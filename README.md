@@ -1,4 +1,3 @@
-# MTGSquad
 MTGSquad is a young developer who thinks he can change the way, the worlds looks at the internet.
 
 ## Contact
