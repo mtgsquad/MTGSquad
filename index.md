@@ -1,3 +1,5 @@
+## Welcome!
+
 ## Contact Me
 To contact me please, email me at: [mtgsquad.dev@protonmail.com](mailto:mtgsquad.dev@protonmail.com)
 
