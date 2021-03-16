@@ -1,12 +1,10 @@
-MTGSquad is a young developer who thinks he can change the way, the worlds looks at the internet.
-
-## Contact
+## Contact Me
 To contact me please, email me at: [mtgsquad.dev@protonmail.com](mailto:mtgsquad.dev@protonmail.com)
 
-## Contributing
+## Contribute In my Projects
 Contribute in my projects on github, My github profile is available [here.](https://github.com/mtgsquad)
 
-## Socials
+## My Social Media
 <br>
 [GitHub](https://github.com/mtgsquad)
 <br>
@@ -19,7 +17,7 @@ My thoughts are all jotted down on my blog, where I make regular posts. sort-of.
 <br>
 [Blog](https://blog.mtgsquad-dev.com)
 
-## Projects
+## My Current Projects
 My currently going on projects are:
 <br>
 [The mCloud](https://the-mcloud.ml)
