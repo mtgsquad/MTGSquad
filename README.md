@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mtgsquad/cdn-content/main/My%20Post.png"/>
+  <img src="https://avatars.githubusercontent.com/u/75879007?v=4"/>
 </p>
+
+# A Young Developer
