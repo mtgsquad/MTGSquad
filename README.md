@@ -1,4 +1,4 @@
-# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave.gif">, I'm Mahir Molai!
+# Hi There <img style="font-size: 28px;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave.gif">, I'm Mahir Molai!
 
 I'm a full-stack developer, who loves to use google cloud, firebase, and my own raspberry pi!
 
