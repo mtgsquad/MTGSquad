@@ -1,20 +1,12 @@
-# Hi, i'm Mahir Molai
-I'm a 13 year old developer, who wants to change the world.
+# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave.gif">, I'm Mahir Molai!
 
-## Twitter
-https://twitter.com/mtgsquad_dev
+I'm a full-stack developer, who loves to use google cloud, firebase, and my own raspberry pi!
 
-## Website
-https://molai.dev/
+## 📚 Projects
+My current projects are: MolaiBOT, DJSPG, My Website, Devs-GG.
 
-## Projects
-MolaiBOT: [GitHub](https://github.com/mtgsquad/molaibot) - [Website](https://bot.molai.dev)
-<br />
-DJSPG: No sources available (website coming soon)
-<br />
-Molai's CDN: [Website](https://cdn.molai.dev/) - [GitHub](https://github.com/mtgsquad/cdn-content)
-<br />
-Molai's DevLog[0]: [Website](https://blog.molai.dev) - [GitHub](https://github.com/mtgsquad/blog.molai.dev)
+## 🧑 About Me
+I'm 14, i love developing, i code about 4 hours each day, usually doing dumb stuff and not being productive.
 
-## Join My Discord:
-<p align="center"><a href="https://discord.gg/NRthkRKEXw" target="_blank"><img src="https://discordapp.com/api/guilds/811123491130310686/widget.png?style=banner3" alt="Discord Banner 3"></p>
+## Thanks for visiting!
+Thanks for visiting my github profile :D
