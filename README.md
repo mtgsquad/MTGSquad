@@ -12,5 +12,8 @@ I'm 14, i love developing, i code about 4 hours each day, usually doing dumb stu
 ## 🌌 Stats
 [![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtgsquad&theme=dark&show_icons=true)](https://molai.dev/)
 
+## 💥 Profile Views
+![](https://komarev.com/ghpvc/?username=mtgsquad)
+
 ## Thanks for visiting!
 Thanks for visiting my github profile :D
