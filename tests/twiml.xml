@@ -1,0 +1,5 @@
+<Response>
+<Say voice="man">Hi dad, it's me, Mahir Molai, i've built this app that sends a call and tells them a message, let me know on whatsapp about what you think!</Say>
+<Say voice="woman">By the way, enjoy this free rickroll!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
