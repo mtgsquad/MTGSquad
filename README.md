@@ -2,7 +2,7 @@
 I'm a full-stack developer, who loves to use google cloud, firebase, and my own raspberry pi!
 
 ## 📚 Projects
-My current projects are: MolaiBOT, DJSPG, My Website, Devs-GG.
+My current projects are: is-a-dev/register, is-a-dev/maintainers, is-a-dev/registeration, is-a-dev discord bot, my website, and that's it.
 
 ## 🧑 About Me
 I love developing, i code about 4 hours each day, usually doing dumb stuff and not being productive.
