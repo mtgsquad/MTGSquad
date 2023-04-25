@@ -9,4 +9,4 @@ I'm a freelance web developer, closing in on around 4 years of experience.
 
 ## ✉️ Contact
 - 📧 Email at mahir@molai.dev
-- 📞 Call: [+1 (662) 666-6675](tel:+16626666675)
+- 📞 Call: <a href="tel:+16626666675">+1 (662) 666-6675</a>
