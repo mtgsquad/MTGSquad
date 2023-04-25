@@ -1,14 +1,4 @@
 # 👋 Hi! I'm Mahir.
-```ts
-import { Human, Country } from 'earth';
-const pakistan = new Country({ name: "Pakistan", flag: "🇵🇰" });
-const mahir = new Human({ age: 14, country: pakistan });
-mahir.setDescription("I'm a freelance web developer, closing in on around 4 years of experience.");
-mahir.setJob("Freelance Web Developer");
-mahir.setYearsOfExperience(4);
-mahir.setWork(["Founder @ MOOCODE", "Writer @ The MOOCODE Blog", "Developer @ DAFZE", "Intern @ Schoodic Media"]);
-mahir.setContact({ whatsapp: "https://wa.me/00923312861571", email: "mahir@molai.dev" });
-```
 I'm a freelance web developer, closing in on around 4 years of experience.
 
 ## 💼 Work
@@ -19,4 +9,4 @@ I'm a freelance web developer, closing in on around 4 years of experience.
 
 ## ✉️ Contact
 - 📧 Email at mahir@molai.dev
-- 📞 WhatsApp [here.](https://wa.me/00923312861571)
+- 📞 Call: [+1 (662) 666-6675](tel:+16626666675)
